@@ -39,7 +39,7 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 
 ## Technologies Used and Requirements
 
-- **Python**: 🐍
+- `Python`: 🐍
 - `Docker`: Containerization for consistent environments and deployment.
 - `Apache Airflow`: Workflow management and task scheduling.
 - `Pandas`: Data manipulation and analysis.
