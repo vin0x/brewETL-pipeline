@@ -1,0 +1,37 @@
+state,brewery_type,brewery_count
+Arizona,micro,6
+California,closed,2
+California,large,2
+California,micro,4
+Colorado,brewpub,2
+Colorado,large,2
+Colorado,micro,2
+Colorado,proprietor,2
+Delaware,micro,2
+Idaho,large,2
+Illinois,micro,2
+Indiana,micro,6
+Iowa,micro,2
+Laois,micro,2
+Maryland,contract,2
+Massachusetts,micro,2
+Michigan,micro,2
+Minnesota,micro,6
+Mississippi,micro,2
+Nevada,micro,2
+New York,brewpub,4
+North Carolina,brewpub,2
+North Carolina,micro,2
+Ohio,brewpub,2
+Ohio,micro,2
+Oklahoma,micro,2
+Oregon,brewpub,4
+Oregon,large,8
+Pennsylvania,micro,2
+South Carolina,brewpub,2
+Texas,micro,4
+Vermont,micro,2
+Virginia,micro,2
+Washington,brewpub,2
+Washington,closed,2
+Wisconsin,micro,4
