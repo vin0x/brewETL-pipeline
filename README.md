@@ -27,6 +27,7 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 - **Data Aggregation**: Creates summary tables to show brewery counts by type and location.
 - **Automated Pipeline**: Manages the pipeline with Apache Airflow for periodic data refreshes.
 - **Docker Integration**: Containerizes the entire setup using Docker for consistent environment configuration and easy deployment.
+- **Test case**: The project includes unit tests to ensure the reliability and correctness of the data extraction process.
 
 ## Monitoring and Alerting
 
