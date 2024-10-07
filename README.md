@@ -32,7 +32,7 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 
 - **Data Quality Checks**: Implement checks based on Null Values, Row Count, tracking expected number of records and searching for high change based on last runs.
 - **Task Monitoring**: Use Airflow’s task failure alerts to notify when a job fails based on status, task duration setting runtimes.
-- **Auto Mechanisms: Implement automatically mechanisms like a retry logic (based on alarms and logs)
+- **Auto Mechanisms**: Implement automatically mechanisms like a retry logic (based on alarms and logs).
 - **Messaging Alerts**: Configure email alerts for pipeline failures or data quality issues to alert specific teams and link with Messaging Platforms e.g (Slack, MS Teams) for real-time alerts.
 - **Logs**: Access detailed logs in the Airflow UI to identify and troubleshooting.
 
