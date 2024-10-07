@@ -46,7 +46,7 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 
 ## Docker Setup
 
-This project uses **Docker** to simplify the deployment and execution of the data pipeline (Also enabling us to use Airflow from a Windows setup):
+This project uses **Docker** to simplify the deployment and execution of the data pipeline (Also enabling us to use Airflow in a Windows setup):
 - **Docker Image**: All dependencies and configurations are encapsulated within a Docker image.
 - **Docker Compose**: The setup is orchestrated using Docker Compose to manage multiple services, including the Airflow web server and scheduler.
 - This approach ensures that the environment is consistent across different setups, making it easier to deploy and scale.
