@@ -5,7 +5,7 @@
 This project is a complete data pipeline for breweries data using a medallion architecture (bronze, silver, and gold layers). It extracts raw data from an API (Open Brewery API), transform, aggregate (based on assignment) and load to SQLite DB. The pipeline is containerized using **Docker** for consistent environment setup and deployment, and it utilizes technologies such as `pandas`, `sqlite3`, and `Apache Airflow` to manage data processing and scheduling.
 
   <p align="center">
-  <img src="images/diagram.png" width="500" />
+  <img src="images/diagram.png" width="700" />
 </p>
 
 ## Solution Design
