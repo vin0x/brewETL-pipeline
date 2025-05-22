@@ -1,37 +1,38 @@
 state,brewery_type,brewery_count
-Arizona,micro,6
-California,closed,2
-California,large,2
-California,micro,4
-Colorado,brewpub,2
-Colorado,large,2
-Colorado,micro,2
-Colorado,proprietor,2
-Delaware,micro,2
-Idaho,large,2
-Illinois,micro,2
-Indiana,micro,6
-Iowa,micro,2
-Laois,micro,2
-Maryland,contract,2
-Massachusetts,micro,2
-Michigan,micro,2
-Minnesota,micro,6
-Mississippi,micro,2
-Nevada,micro,2
-New York,brewpub,4
-North Carolina,brewpub,2
-North Carolina,micro,2
-Ohio,brewpub,2
-Ohio,micro,2
-Oklahoma,micro,2
-Oregon,brewpub,4
-Oregon,large,8
-Pennsylvania,micro,2
-South Carolina,brewpub,2
-Texas,micro,4
-Vermont,micro,2
-Virginia,micro,2
-Washington,brewpub,2
-Washington,closed,2
-Wisconsin,micro,4
+Arizona,micro,45
+California,closed,15
+California,large,15
+California,micro,30
+Colorado,brewpub,15
+Colorado,large,15
+Colorado,micro,15
+Colorado,proprietor,15
+Delaware,micro,15
+Idaho,large,15
+Illinois,micro,15
+Indiana,micro,45
+Iowa,micro,15
+Laois,micro,15
+Maryland,contract,15
+Massachusetts,micro,15
+Michigan,micro,15
+Minnesota,micro,45
+Mississippi,micro,15
+Nevada,micro,15
+New York,brewpub,30
+North Carolina,brewpub,15
+North Carolina,micro,15
+Ohio,brewpub,15
+Ohio,micro,15
+Oklahoma,micro,15
+Oregon,brewpub,30
+Oregon,large,60
+Pennsylvania,micro,15
+South Carolina,brewpub,15
+Texas,micro,30
+Vermont,micro,15
+Virginia,micro,15
+Washington,brewpub,14
+Washington,closed,15
+Washington,micro,1
+Wisconsin,micro,30
