@@ -2,16 +2,15 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 5128df48-79fc-4f0f-8b52-d06be54d0cec,(405) Brewing Co,micro,1716 Topeka St,,,Norman,Oklahoma,73069-8224,United States,-97.46818222,35.25738891,4058160490,http://www.405brewing.com,Oklahoma,1716 Topeka St
 9c5a66c8-cc13-416f-a5d9-0a769c87d318,(512) Brewing Co,micro,407 Radam Ln Ste F200,,,Austin,Texas,78745-1197,United States,0.0,0.0,5129211545,http://www.512brewing.com,Texas,407 Radam Ln Ste F200
 34e8c68b-6146-453f-a4b9-1f6cd99a5ada,1 of Us Brewing Company,micro,8100 Washington Ave,,,Mount Pleasant,Wisconsin,53406-3920,United States,-87.88336350209435,42.72010826899558,2624847553,https://www.1ofusbrewing.com,Wisconsin,8100 Washington Ave
-ef970757-fe42-416f-931d-722451f1f59c,10 Barrel Brewing Co,large,1501 E St,,,San Diego,California,92101-6618,United States,-117.129593,32.714813,6195782311,http://10barrel.com,California,1501 E St
 6d14b220-8926-4521-8d19-b98a2d6ec3db,10 Barrel Brewing Co,large,62970 18th St,,,Bend,Oregon,97701-9847,United States,-121.281706,44.08683531,5415851007,http://www.10barrel.com,Oregon,62970 18th St
 e2e78bd8-80ff-4a61-a65c-3bfbd9d76ce2,10 Barrel Brewing Co,large,1135 NW Galveston Ave Ste B,,,Bend,Oregon,97703-2465,United States,-121.3288021,44.0575649,5415851007,Unknown,Oregon,1135 NW Galveston Ave Ste B
 e432899b-7f58-455f-9c7b-9a6e2130a1e0,10 Barrel Brewing Co,large,1411 NW Flanders St,,,Portland,Oregon,97209-2620,United States,-122.6855056,45.5259786,5032241700,http://www.10barrel.com,Oregon,1411 NW Flanders St
+ef970757-fe42-416f-931d-722451f1f59c,10 Barrel Brewing Co,large,1501 E St,,,San Diego,California,92101-6618,United States,-117.129593,32.714813,6195782311,http://10barrel.com,California,1501 E St
 9f1852da-c312-42da-9a31-097bac81c4c0,10 Barrel Brewing Co - Bend Pub,large,62950 NE 18th St,,,Bend,Oregon,97701,United States,-121.2809536,44.0912109,5415851007,Unknown,Oregon,62950 NE 18th St
 ea4f30c0-bce6-416b-8904-fab4055a7362,10 Barrel Brewing Co - Boise,large,826 W Bannock St,,,Boise,Idaho,83702-5857,United States,-116.202929,43.618516,2083445870,http://www.10barrel.com,Idaho,826 W Bannock St
 1988eb86-f0a2-4674-ba04-02454efa0d31,10 Barrel Brewing Co - Denver,large,2620 Walnut St,,,Denver,Colorado,80205-2231,United States,-104.9853655,39.7592508,7205738992,Unknown,Colorado,2620 Walnut St
 1ecc330f-6275-42a5-b14e-00adbed62752,10 Torr Distilling and Brewing,micro,490 Mill St,,,Reno,Nevada,89502,United States,-119.7732015,39.5171702,7755307014,http://www.10torr.com,Nevada,490 Mill St
 7531dbd8-afc9-4b5b-95bc-7ece7f2c0bf3,10-56 Brewing Company,micro,400 Brown Cir,,,Knox,Indiana,46534,United States,-86.627954,41.289715,6308165790,Unknown,Indiana,400 Brown Cir
-03118499-a3d0-4c22-860d-4529509ae095,101 Brewery,brewpub,294793 US Highway 101,,,Quilcene,Washington,98376-9000,United States,-122.8755823,47.82347577,3607656485,http://www.101brewery.com,Washington,294793 US Highway 101
 5ae467af-66dc-4d7f-8839-44228f89b596,101 North Brewing Company,closed,1304 Scott St Ste D,,,Petaluma,California,94954-7100,United States,-122.665055,38.27029381,7077534934,http://www.101northbeer.com,California,1304 Scott St Ste D
 4ffda196-dd59-44a5-9eeb-5f7fd4b58f5a,105 West Brewing Co,micro,1043 Park St,,,Castle Rock,Colorado,80109-1585,United States,-104.8667206,39.38269495,3033257321,http://www.105westbrewing.com,Colorado,1043 Park St
 42aa37d5-8384-4ffe-8c81-7c982eff0384,10K Brewing,micro,2005 2nd Ave,,,Anoka,Minnesota,55303-2243,United States,-93.38952559,45.19812039,7633924753,http://10KBrew.com,Minnesota,2005 2nd Ave
@@ -49,3 +48,4 @@ b51f3cdf-60ff-4ae1-94a7-76906c7d62eb,18th Street Brewery,micro,5725 Miller Ave,,
 add7f978-942e-4d56-b209-c80837a51d69,18th Street Brewery,micro,5417 Oakley Ave,,,Hammond,Indiana,46320-1817,United States,-87.517422,41.61556796,Unknown,Unknown,Indiana,5417 Oakley Ave
 dbde8235-2b55-4d8b-8b1c-438155abe104,1905 Brewing Company,micro,1301 S Chestnut St,,,Assumption,Illinois,62510-8504,United States,-89.0503635,39.5172564,2172549374,http://1905BrewingCompany.com,Illinois,1301 S Chestnut St
 4f4b5b34-d572-4dff-a18f-47e507c073e6,1912 Brewing,micro,2045 N Forbes Blvd Ste 105,,,Tucson,Arizona,85745-1444,United States,-110.9927505,32.24673727,5202564851,http://www.1912brewing.com,Arizona,2045 N Forbes Blvd Ste 105
+4ccad9b9-f9cf-4d21-b6d5-ab005ee1532d,192 Brewing,micro,7324 NE 175th St,,,Kenmore,Washington,98028-2500,United States,-122.2415652,47.75670075,4254242337,http://www.192brewing.com,Washington,7324 NE 175th St
