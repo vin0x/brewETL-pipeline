@@ -1,11 +1,11 @@
-# Breweries Data Pipeline Project
+# br**E**w**T**ifu**L** Data Pipeline Project
 
 ## About
 
 This project is a complete data pipeline for breweries data using a medallion architecture (bronze, silver, and gold layers). It extracts raw data from an API (Open Brewery API), transform, aggregate (based on assignment) and load to SQLite DB. The pipeline is containerized using **Docker** for consistent environment setup and deployment, and it utilizes technologies such as `pandas`, `sqlite3`, and `Apache Airflow` to manage data processing and scheduling.
 
   <p align="center">
-  <img src="images/diagram.png" width="500" />
+  <img src="images/diagram.png" width="700" />
 </p>
 
 ## Solution Design
@@ -27,18 +27,19 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 - **Data Aggregation**: Creates summary tables to show brewery counts by type and location.
 - **Automated Pipeline**: Manages the pipeline with Apache Airflow for periodic data refreshes.
 - **Docker Integration**: Containerizes the entire setup using Docker for consistent environment configuration and easy deployment.
+- **Test case**: The project includes unit tests to ensure the reliability and correctness of the data extraction process.
 
 ## Monitoring and Alerting
 
 - **Data Quality Checks**: Implement checks based on Null Values, Row Count, tracking expected number of records and searching for high change based on last runs.
 - **Task Monitoring**: Use Airflow’s task failure alerts to notify when a job fails based on status, task duration setting runtimes.
-- **Auto Mechanisms: Implement automatically mechanisms like a retry logic (based on alarms and logs)
+- **Auto Mechanisms**: Implement automatically mechanisms like a retry logic (based on alarms and logs).
 - **Messaging Alerts**: Configure email alerts for pipeline failures or data quality issues to alert specific teams and link with Messaging Platforms e.g (Slack, MS Teams) for real-time alerts.
 - **Logs**: Access detailed logs in the Airflow UI to identify and troubleshooting.
 
 ## Technologies Used and Requirements
 
-- **Python**: 🐍
+- `Python`: 🐍
 - `Docker`: Containerization for consistent environments and deployment.
 - `Apache Airflow`: Workflow management and task scheduling.
 - `Pandas`: Data manipulation and analysis.
@@ -46,7 +47,7 @@ This architecture allows for scalability*, flexibility, and efficient data manag
 
 ## Docker Setup
 
-This project uses **Docker** to simplify the deployment and execution of the data pipeline (Also enabling us to use Airflow from a Windows setup):
+This project uses **Docker** to simplify the deployment and execution of the data pipeline (Also enabling us to use Airflow in a Windows setup):
 - **Docker Image**: All dependencies and configurations are encapsulated within a Docker image.
 - **Docker Compose**: The setup is orchestrated using Docker Compose to manage multiple services, including the Airflow web server and scheduler.
 - This approach ensures that the environment is consistent across different setups, making it easier to deploy and scale.
